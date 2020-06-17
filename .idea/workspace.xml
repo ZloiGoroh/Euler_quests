@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7743b3f6-f828-468d-845c-bee99f3790ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fourthTask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7743b3f6-f828-468d-845c-bee99f3790ab" name="Default Changelist" comment="Finished fourgth euler's quest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,6 +108,14 @@
       <option name="presentableId" value="Default" />
       <updated>1553097320567</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished fourgth euler's quest">
+      <created>1592416770987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592416770987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +128,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished fourgth euler's quest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished fourgth euler's quest" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="265" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592402873669">
