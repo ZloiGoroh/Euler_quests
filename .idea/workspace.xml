@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7743b3f6-f828-468d-845c-bee99f3790ab" name="Default Changelist" comment="Finished fourgth euler's quest" />
+    <list default="true" id="7743b3f6-f828-468d-845c-bee99f3790ab" name="Default Changelist" comment="Finished fourth euler's quest">
+      <change afterPath="$PROJECT_DIR$/Task8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstTask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourthTask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondTask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirdTask.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +54,28 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.fourthTask">
+  <component name="RunManager" selected="Python.Task6">
+    <configuration name="Task6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="fourthTask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,11 +120,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task6" />
         <item itemvalue="Python.fourthTask" />
         <item itemvalue="Python.thirdTask" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -115,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592416770987</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished fourth euler's quest">
+      <created>1592417133232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592417133232</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,35 +165,37 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished fourgth euler's quest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished fourgth euler's quest" />
+    <MESSAGE value="Finished fourth euler's quest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished fourth euler's quest" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="265" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592402873669">
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606761401415">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="440" y="265" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1592402873669" />
-    <state width="912" height="275" key="GridCell.Tab.0.bottom" timestamp="1592416527395">
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606761401415" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606760662994">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="912" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1592416527395" />
-    <state width="912" height="275" key="GridCell.Tab.0.center" timestamp="1592416527395">
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1606760662994" />
+    <state width="912" height="275" key="GridCell.Tab.0.bottom" timestamp="1606761735264">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="912" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1592416527395" />
-    <state width="912" height="275" key="GridCell.Tab.0.left" timestamp="1592416527394">
+    <state width="912" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1606761735264" />
+    <state width="912" height="275" key="GridCell.Tab.0.center" timestamp="1606761735263">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="912" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1592416527394" />
-    <state width="912" height="275" key="GridCell.Tab.0.right" timestamp="1592416527395">
+    <state width="912" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1606761735263" />
+    <state width="912" height="275" key="GridCell.Tab.0.left" timestamp="1606761735262">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="912" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1592416527395" />
-    <state x="622" y="245" width="738" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592402055512">
+    <state width="912" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1606761735262" />
+    <state width="912" height="275" key="GridCell.Tab.0.right" timestamp="1606761735263">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="622" y="245" width="738" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1592402055512" />
+    <state width="912" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1606761735263" />
   </component>
 </project>
